@@ -1,0 +1,15 @@
+*.log
+
+# Object files
+*.so
+*.a
+*.o
+
+# Coverage
+*.gcda
+*.gcno
+out/**
+coverage.info
+
+# Test
+test/test
